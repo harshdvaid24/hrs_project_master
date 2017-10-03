@@ -11,33 +11,32 @@ This is a Work place of my all completed projects in various plateforms and tech
 
 ### C Language Application
 
-[Click here for the official documentation](http://laravel-boilerplate.com)
+A Console for SHOP Management System
 
 ### C ++ Application
 
-Please join us in our Slack channel to get faster responses to your questions. Get your invite here: https://laravel-5-boilerplate.herokuapp.com
+A Casino based Console Game.
 
 ### C# Console Application
 
-You can download the last stable build of Laravel 5.3 [here](https://github.com/rappasoft/laravel-5-boilerplate/tree/Legacy_5.3).
+A Console for Car Service Management System
 
 ### C# Windows Application
 
-You can download the last stable build of Laravel 5.2 [here](https://github.com/rappasoft/laravel-5-boilerplate/tree/Legacy_5.2).
+A Desktop Application for Car Service Management System
 
 ### VB.NET Windows Application
 
-You can download the last stable build of Laravel 5.1 [here](https://github.com/rappasoft/laravel-5-boilerplate/tree/Legacy_5.1).
-
+Desktop Application for small Mobile shop keeper
 
 ### ASP.NET WEB Application
 
-Please view the [wiki](https://github.com/rappasoft/laravel-5-boilerplate/wiki) for a list of [features](https://github.com/rappasoft/laravel-5-boilerplate/wiki#features).
+A Web Application for Car Service Management System
 
 ### PHP Web Applications
 
-If you come across any issues please [report them here](https://github.com/rappasoft/Laravel-5-Boilerplate/issues).
+Web Application for travel assistance and services for tourists.
 
 
 ### Author
- **Harsh Vaid
+ ##Harsh Vaid
