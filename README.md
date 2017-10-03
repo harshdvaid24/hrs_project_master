@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Laravel Boilerplate provides you with a massive head start on any size web application. It comes with a full featured access control system out of the box with an easy to learn API and is built on a Twitter Bootstrap foundation with a front and backend architecture. We have put a lot of work into it and we hope it serves you well and saves you time!
+This is a Work place of my all completed projects in various plateforms and technologies such as C, C++, C# ,PHP , VB.NET, ASP.NET etc. 
 
 
 
