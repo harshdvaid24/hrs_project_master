@@ -38,5 +38,5 @@ A Web Application for Car Service Management System
 Web Application for travel assistance and services for tourists.
 
 
-### Author
- ##Harsh Vaid
+## Author
+###Harsh Vaid
